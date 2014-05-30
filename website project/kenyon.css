@@ -1,0 +1,13 @@
+h1{
+	font-family: "Corsiva, "Lucida Handwriting", script";
+	color: #C0C0C0;
+	text-shadow: 0 0 20px #fefcc9, 10px -10px 30px #FF0033, -20px -20px 40px #FF0033, 20px -40px 50px #ec760c, -20px -60px 60px #cd4606, 0 -80px 70px #973716, 10px -90px 80px #451b0e;
+	font-size: 381%;
+	margin-left: 543px;
+}
+
+body{
+	background-color: #FF0033;
+	background-image: url("images/artbyartemisblack.png");
+	background-size: 100%;
+}

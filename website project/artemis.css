@@ -1,0 +1,19 @@
+h1{
+	font-family: "Corsiva, "Lucida Handwriting", script";
+	color: #FFFFCC;
+	text-shadow: 0 0 20px #fefcc9, 10px -10px 30px #FF0033, -20px -20px 40px #FF0033, 20px -40px 50px #ec760c, -20px -60px 60px #cd4606, 0 -80px 70px #973716, 10px -90px 80px #451b0e;
+	font-size: 381%;
+	margin-left: 543px;
+
+
+}
+body{
+
+	background-color: #101010;
+	background-image: url("images/artbyartemisred.png");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: -1px 293px;
+}
+
+

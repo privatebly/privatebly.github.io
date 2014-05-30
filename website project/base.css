@@ -1,0 +1,13 @@
+h1{
+	background-image: url("images/baseimage.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	color: white;
+	padding: 5px;
+	background-color:
+	margin-left: 50px;
+}
+
+body{
+	background-color: black;
+}

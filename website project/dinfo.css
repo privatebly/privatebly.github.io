@@ -1,0 +1,14 @@
+body{
+	background-color: darkgrey;
+}
+
+.thisguy{
+	border: 2px black solid;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: darkred;
+}
+
+.info{
+		font-family: "Comic Sans MS", cursive, sans-serif;
+	color: darkred;
+}

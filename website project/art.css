@@ -1,0 +1,43 @@
+body{
+	background-color: #181818;
+	background-image: url("images/artbyartemisblue.png");
+	background-repeat: no-repeat;
+	background-size: 110%;
+}
+
+#artists{
+	font-family: fantasy;
+	color: black;
+	text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #330099, 0 0 70px #330099, 0 0 80px #6600CC, 0 0 100px #6600CC, 0 0 150px #6600FF;
+	font-size: 39px;
+	margin-left: 44px;
+	position: relative;
+	top: -9px;
+}
+
+#artistlist li{
+	font-family: fantasy;
+	text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #330099, 0 0 70px #330099, 0 0 80px #6600CC, 0 0 100px #00DEFF, 0 0 150px #00DEFF;
+	margin: 20px;
+	font-size: 29px;
+	list-style: none;
+	position: relative;
+}
+
+#artistlist a{
+	text-decoration: none;
+	color: black;
+}
+
+#artistlist a:hover{
+	color: #fff;
+ 	text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #ff00de, 0 0 70px #ff00de, 0 0 80px #ff00de, 0 0 100px #ff00de, 0 0 150px #ff00de;
+}
+
+h1{
+	font-family: fantasy;
+	color: black;
+	text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #660099, 0 0 70px #00DEFF, 0 0 80px #00DEFF, 0 0 100px #00DEFF, 0 0 150px #00DEFF;
+	font-size: 39px;
+	margin-left: 583px;
+}
